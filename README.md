@@ -1,7 +1,3 @@
-Voici une suggestion de fichier README pour votre projet :
-
----
-
 # Classification des Chansons de Bodo et Popy avec LSTM
 
 Ce projet consiste à classifier des chansons des artistes malgaches Bodo et Popy en utilisant un modèle basé sur un réseau de neurones LSTM (Long Short-Term Memory). Le modèle apprend à différencier les chansons en fonction des paroles grâce à un traitement de texte et des techniques d'apprentissage profond.
